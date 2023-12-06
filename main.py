@@ -19,7 +19,7 @@ import pygame.freetype
 import sys
 
 from GraphContent import GraphContent
-from Structured_Knowledge_Graph_Example.MyGraphExample import MyGraphExample
+from Structured_Knowledge_Graph_Example.MyGraph import MyGraph
 from View.ApplicationLoopManager import ApplicationLoopManager
 from ComponentAssembly.ComponentAssembler import ComponentAssembler
 from GraphModel.Graph import Graph
@@ -28,9 +28,9 @@ if __name__ == '__main__':
     # Graph
     graph = Graph()
     graph.team_name = "Die Spiel entwicklern"  # TODO: Geben Sie Ihrem Team einen Namen!
-    graph_content = GraphContent(graph)  # TODO: Hier können Sie den Inhalt und Verbindungen ihrer Knoten anlegen.
+    #graph_content = GraphContent(graph)  # TODO: Hier können Sie den Inhalt und Verbindungen ihrer Knoten anlegen.
 
-    # beautiful_code_graph = MyGraphExample(graph)
+    beautiful_code_graph = MyGraph(graph)
 
     # Application
     component_assembler = ComponentAssembler(graph, False)

@@ -20,7 +20,7 @@ from Structured_Knowledge_Graph_Example.MainGraph import MainGraph
 from Structured_Knowledge_Graph_Example.SubGraph import SubGraph
 
 
-class MyGraphExample:
+class MyGraph:
 
     def __init__(self, graph: Graph):
         self.create_main_graph(graph)
@@ -31,8 +31,8 @@ class MyGraphExample:
         Er spiegelt die Klasse GraphContent unterteilt den Code jedoch in kleinere Einheiten.
         """
         main_graph = MainGraph(graph)
-        literature_source_example_node = main_graph.get_literature_source_example_node()
-        sub_graph = SubGraph(literature_source_example_node, graph)
+        main_node = main_graph.get_main_node()
+        sub_graph = SubGraph(main_node, graph)
 
 
 

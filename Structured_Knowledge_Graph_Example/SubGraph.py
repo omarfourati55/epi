@@ -1,30 +1,34 @@
 from GraphModel.Graph import Graph
 from GraphModel.Node import Node
 
+from Structured_Knowledge_Graph_Example.NodeTree import (
+    HerausforderungenImStudiumTree,
+    ZusaetzlicheHerausforderungenFuerStudierendeTree,
+    StudienRichtungTree,
+    TechnologieEntwicklungUndTrendsTree,
+    EntscheidungenBeiKurzWahlTree,
+    PraktikaUndBerufsErfahrungTree)
+
 
 class SubGraph:
 
     def __init__(self, parent_node: Node, graph: Graph):
-        self.create_sub_graph(graph, parent_node)
+        self.parent_node = parent_node
+        self.herausforderungen_im_studium_tree = HerausforderungenImStudiumTree.HerausforderungenImStudiumTree(graph)
+        self.zusaetzliche_herausforderungen_fuer_studierende_tree = ZusaetzlicheHerausforderungenFuerStudierendeTree.ZusaetlicheHerausforderungenFuerStudierendeTree(graph)
+        self.studien_richtung_tree = StudienRichtungTree.StudienRichtungTree(graph)
+        self.technologie_entwicklung_und_trends_tree = TechnologieEntwicklungUndTrendsTree.TechnologieEntwicklungUndTrendsTree(graph)
+        self.entscheidungen_bei_kurz_wahl_tree = EntscheidungenBeiKurzWahlTree.EntscheidungenBeiKurzWahlTree(graph)
+        self.praktika_und_berufs_erfahrung_tree = PraktikaUndBerufsErfahrungTree.PraktikaUndBerufsErfahrungTree(graph)
+        self.create_sub_graph(graph)
 
-    def create_sub_graph(self, graph: Graph, parent_node: Node):
-
+    def create_sub_graph(self, graph: Graph):
         # Create Nodes
-        node_a = Node("Text", "Node A")
-        node_b = Node("Text", "Node B")
-        node_c = Node("Text", "Node C")
-        node_d = Node("Text", "Node D")
-        node_e = Node("Text", "Node E")
+        self.parent_node.connect(self.herausforderungen_im_studium_tree.get_parent_node())
+        self.parent_node.connect(self.zusaetzliche_herausforderungen_fuer_studierende_tree.get_parent_node())
+        self.parent_node.connect(self.studien_richtung_tree.get_parent_node())
+        self.parent_node.connect(self.technologie_entwicklung_und_trends_tree.get_parent_node())
+        self.parent_node.connect(self.entscheidungen_bei_kurz_wahl_tree.get_parent_node())
+        self.parent_node.connect(self.praktika_und_berufs_erfahrung_tree.get_parent_node())
 
-        node_a.connect(node_b)
-        node_b.connect(node_c)
-        node_c.connect(node_d)
-        node_d.connect(node_e)
-        node_e.connect(node_a)
-        parent_node.connect(node_a)
 
-        graph.add_new_node_to_graph(node_a)
-        graph.add_new_node_to_graph(node_b)
-        graph.add_new_node_to_graph(node_c)
-        graph.add_new_node_to_graph(node_d)
-        graph.add_new_node_to_graph(node_e)

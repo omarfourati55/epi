@@ -15,20 +15,8 @@ CONTENT = (
     "# Iteratives Lernen \n"
     "Ein iterativer Lernansatz, bei dem Konzepte schrittweise erlernt und vertieft werden, kann effektiver sein als das Versuchen, alles auf einmal zu verstehen. \n\n"
 
-    "# Diskussionen und Gruppenarbeit \n"
-    "Die Zusammenarbeit in Studiengruppen und die Diskussion mit anderen Studierenden oder Dozenten können neue Einsichten bringen und das Verständnis vertiefen. \n\n"
-
-    "# Fallstudien und reale Anwendungen \n"
-    "Die Analyse von Fallstudien und realen Anwendungen, in denen komplexe Datenstrukturen und Algorithmen zum Einsatz kommen, veranschaulicht ihre praktische Relevanz und Anwendbarkeit. \n\n"
-
     "# Herausforderungen und Wettbewerbe \n"
     "Die Teilnahme an Programmierwettbewerben und Hackathons kann motivierend sein und praktische Erfahrungen im Umgang mit komplexen Problemen bieten. \n\n"
-
-    "# Feedback und kontinuierliches Lernen \n"
-    "Feedback von Dozenten und Peers sowie die Bereitschaft, aus Fehlern zu lernen und das Wissen kontinuierlich zu erweitern, sind für den Erfolg entscheidend. \n\n"
-
-    "# Verbindung von Theorie und Praxis \n"
-    "Die Verknüpfung theoretischer Konzepte mit praktischen Anwendungen hilft, die Bedeutung und den Nutzen von Datenstrukturen und Algorithmen im realen Kontext zu verstehen. \n\n"
 
     "Die Auseinandersetzung mit komplexen Datenstrukturen und Algorithmen erfordert Geduld, Übung und eine offene Einstellung zum Lernen. Durch die Kombination aus theoretischem Studium, praktischer Anwendung und kollaborativem Austausch können Studierende diese wichtigen Informatikfähigkeiten meistern."
 )

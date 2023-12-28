@@ -27,10 +27,6 @@ CONTENT = (
     "Der Einsatz von Chatbots und Sprachassistenten wie ChatGPT im Studium kann als Werkzeug für das interaktive Lernen dienen. "
     "Diese können für die Beantwortung von Fragen, die Unterstützung bei der Codierung oder als Hilfsmittel bei der Literaturrecherche genutzt werden. Allerdings ist es wichtig, die von KI generierten Informationen kritisch zu hinterfragen und zu validieren. \n\n"
 
-    "# Herausforderungen und Zukunftsperspektiven \n"
-    "Studierende sollten sich den Herausforderungen bewusst sein, die die rasante Entwicklung der KI mit sich bringt. Dazu gehört das kontinuierliche Lernen neuer Technologien und Methoden sowie das Anpassen an sich schnell ändernde Anforderungen. "
-    "Die Auseinandersetzung mit Zukunftsperspektiven der KI, wie Quanten-KI oder ethische KI, bereitet auf zukünftige Entwicklungen vor. \n\n"
-
     "# Kritische Bewertung von KI-Lösungen \n"
     "Es ist wichtig, dass Studierende lernen, KI-Lösungen kritisch zu bewerten. Sie sollten nicht alles, was KI-Systeme generieren, blind akzeptieren, sondern die Ergebnisse überprüfen, hinterfragen und das eigene Urteilsvermögen einsetzen. "
     "Das Verständnis der Grenzen und Möglichkeiten von KI ist entscheidend für die Entwicklung verantwortungsbewusster und effektiver KI-Systeme. \n\n"

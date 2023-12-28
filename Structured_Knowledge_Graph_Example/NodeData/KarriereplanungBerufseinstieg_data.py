@@ -9,9 +9,6 @@ CONTENT = (
     "# Praktische Erfahrungen \n"
     "Das Sammeln praktischer Erfahrungen ist unverzichtbar. Ob durch Praktika, studentische Projekte oder Teilnahme an Hackathons – praktische Erfahrungen bieten Einblicke in die Arbeitswelt und schärfen berufliche Fähigkeiten. \n\n"
 
-    "# Aufbau eines professionellen Netzwerks \n"
-    "Networking ist ein Schlüsselelement für den beruflichen Erfolg. Der Aufbau eines Netzwerks mit Kommilitonen, Lehrkräften, Branchenexperten und Alumni kann wertvolle Karrierechancen und Mentorship-Möglichkeiten eröffnen. \n\n"
-
     "# Lebenslauf und Online-Präsenz \n"
     "Ein überzeugender Lebenslauf und eine professionelle Online-Präsenz, beispielsweise auf LinkedIn, sind für die Jobsuche entscheidend. Hervorhebung von Projekten, Fähigkeiten und Praktika zeigt potenziellen Arbeitgebern die Bandbreite der eigenen Kompetenzen. \n\n"
 
@@ -20,18 +17,6 @@ CONTENT = (
 
     "# Kenntnisse aktueller Technologien und Trends \n"
     "Das Informatikstudium vermittelt Grundlagen, doch die IT-Branche entwickelt sich ständig weiter. Eigeninitiative beim Erlernen neuer Technologien und Trends ist für den Berufseinstieg und die Karriereentwicklung entscheidend. \n\n"
-
-    "# Work-Life-Balance \n"
-    "Es ist wichtig, bereits zu Beginn der Karriere eine gesunde Work-Life-Balance zu etablieren. Dies hilft, Burnout zu vermeiden und langfristig produktiv und motiviert zu bleiben. \n\n"
-
-    "# Fortbildung und lebenslanges Lernen \n"
-    "Angesichts der Schnelllebigkeit der IT-Branche ist kontinuierliche Weiterbildung unerlässlich. Fortbildungen, Zertifikate und die Teilnahme an Fachkonferenzen sind wichtige Instrumente, um die eigenen Fähigkeiten zu erweitern und auf dem neuesten Stand zu bleiben. \n\n"
-
-    "# Umgang mit Rückschlägen \n"
-    "Der Berufseinstieg kann mit Herausforderungen und Rückschlägen verbunden sein. Wichtig ist, daraus zu lernen, resilient zu bleiben und sich durch Misserfolge nicht entmutigen zu lassen. \n\n"
-
-    "# Bedeutung von Soft Skills \n"
-    "Neben technischen Fähigkeiten sind Soft Skills wie Kommunikationsfähigkeit, Teamarbeit und Problemlösungskompetenz entscheidend. Die Entwicklung dieser Fähigkeiten ist ein wichtiger Bestandteil der Karrierevorbereitung. \n\n"
 
     "Eine umfassende Karriereplanung und gezielte Vorbereitung auf den Berufseinstieg ermöglichen es Informatikstudierenden, sich effektiv auf die Anforderungen und Chancen in der IT-Branche einzustellen und eine erfolgreiche Karriere zu starten."
 )

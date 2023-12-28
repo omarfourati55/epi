@@ -24,8 +24,5 @@ CONTENT = (
     "# Berücksichtigung von Datenschutz und Datensicherheit \n"
     "In der Remote-Arbeit ist der Datenschutz besonders wichtig. Studierende sollten verstehen, wie man sensible Daten schützt und sichere Verbindungen für den Zugriff auf Unternehmensnetzwerke verwendet. \n\n"
 
-    "# Work-Life-Balance in der Remote-Arbeit \n"
-    "Die Aufrechterhaltung einer gesunden Work-Life-Balance ist besonders in der Remote-Arbeit eine Herausforderung. Studierende sollten Strategien entwickeln, um Überarbeitung zu vermeiden und einen Ausgleich zwischen Arbeit und Privatleben zu finden. \n\n"
-
     "Die Vorbereitung auf die Anforderungen und Herausforderungen der Remote-Arbeit und virtueller Teams ist für Informatikstudierende essenziell. Diese Fähigkeiten sind nicht nur für die aktuelle Arbeitswelt relevant, sondern bereiten sie auch auf zukünftige Trends in der Softwareentwicklung vor."
 )

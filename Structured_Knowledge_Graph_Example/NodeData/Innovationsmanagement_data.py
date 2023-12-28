@@ -6,17 +6,8 @@ CONTENT = (
     "# Integration neuer Technologien \n"
     "Ein Schlüsselelement des Innovationsmanagements ist die Fähigkeit, neue Technologien zu erkennen und zu integrieren. Dies erfordert ein tiefes Verständnis aktueller und aufkommender Technologien sowie die Fähigkeit, deren Potenzial für das Unternehmen zu bewerten. \n\n"
 
-    "# Förderung einer Innovationskultur \n"
-    "Eine Kultur, die Innovation fördert, ist für IT-Unternehmen unerlässlich. Dies beinhaltet die Schaffung eines Umfelds, in dem Experimentieren und kreatives Denken ermutigt werden, sowie die Bereitstellung der notwendigen Ressourcen und Unterstützung für Innovationsprojekte. \n\n"
-
     "# Design Thinking und kreative Problemlösung \n"
     "Design Thinking ist ein Ansatz, der Kreativität und Benutzerzentrierung in den Innovationsprozess einbringt. Die Anwendung von Design Thinking-Methoden kann zu durchdachteren und nutzerorientierten Innovationen führen. \n\n"
-
-    "# Vernetzung und Kooperationen \n"
-    "Netzwerkbildung und Kooperationen mit anderen Unternehmen, Start-ups und Forschungseinrichtungen können neue Perspektiven und Möglichkeiten für Innovationen eröffnen. \n\n"
-
-    "# Agile Innovation \n"
-    "Agile Innovation kombiniert agile Praktiken mit dem Innovationsprozess, um schneller auf Marktveränderungen reagieren zu können. Dies erfordert Flexibilität, schnelle Iterationen und eine enge Zusammenarbeit zwischen verschiedenen Teams. \n\n"
 
     "# Nutzerorientierte Entwicklung \n"
     "Die Einbeziehung der Endnutzer in den Entwicklungsprozess ist entscheidend, um Produkte zu schaffen, die den Marktbedürfnissen entsprechen. Dies beinhaltet Nutzerforschung, Prototyping und kontinuierliches Feedback. \n\n"

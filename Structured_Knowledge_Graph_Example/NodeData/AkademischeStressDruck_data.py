@@ -9,17 +9,8 @@ CONTENT = (
     "# Zeitmanagement und Prioritätensetzung \n"
     "Gutes Zeitmanagement ist entscheidend, um Stress zu minimieren. Dazu gehört, realistische Ziele zu setzen, Aufgaben zu priorisieren und Deadlines einzuhalten. Die Verwendung von Planungstools und Kalendern kann dabei helfen, den Überblick zu behalten. \n\n"
 
-    "# Pausen und Ausgleich \n"
-    "Regelmäßige Pausen sind wichtig, um geistige Erschöpfung zu vermeiden. Aktivitäten, die vom Studium ablenken und Freude bereiten, wie Sport, Musik oder Zeit mit Freunden und Familie, sind wichtig für die Erholung und das emotionale Gleichgewicht. \n\n"
-
-    "# Unterstützungsnetzwerke \n"
-    "Ein starkes Unterstützungsnetzwerk ist unverzichtbar. Der Austausch mit anderen Studierenden, die Teilnahme an Studiengruppen oder Gespräche mit Familienmitgliedern und Freunden können helfen, den Stress zu reduzieren. \n\n"
-
     "# Gesunde Lebensweise \n"
     "Eine gesunde Ernährung, ausreichender Schlaf und regelmäßige Bewegung sind grundlegend für das Stressmanagement. Sie tragen dazu bei, die körperliche und geistige Leistungsfähigkeit zu erhalten. \n\n"
-
-    "# Realistische Zielsetzung \n"
-    "Es ist wichtig, realistische Ziele zu setzen und sich nicht zu überfordern. Das Akzeptieren, dass nicht alles perfekt sein muss und dass Fehler Teil des Lernprozesses sind, hilft, den Druck zu reduzieren. \n\n"
 
     "# Reflexion und Selbstbewusstsein \n"
     "Regelmäßige Reflexion über Fortschritte und Herausforderungen hilft, ein besseres Verständnis für eigene Stressfaktoren zu entwickeln. Das Erlernen von Techniken zur Stressbewältigung und Selbstbewusstsein kann langfristig zur Stressreduktion beitragen. \n\n"

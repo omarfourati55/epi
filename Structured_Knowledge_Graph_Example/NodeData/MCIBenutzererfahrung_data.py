@@ -24,11 +24,5 @@ CONTENT = (
     "# Zugänglichkeit und Inklusion \n"
     "Design für alle Zugänglichkeitsstufen ist ein wichtiger Aspekt der UX. Studierende sollten lernen, wie man barrierefreie und inklusive Designs erstellt, die für ein breites Spektrum von Benutzern geeignet sind. \n\n"
 
-    "# Aktuelle Trends und Zukunftstechnologien \n"
-    "Die Auseinandersetzung mit aktuellen Trends und Zukunftstechnologien, wie Künstlicher Intelligenz und Augmented Reality, ist wichtig, um innovative HCI- und UX-Lösungen zu entwickeln. \n\n"
-
-    "# Kritische Evaluation und ständige Verbesserung \n"
-    "Kritisches Denken und die Bereitschaft zur ständigen Verbesserung sind entscheidend für den Erfolg in HCI und UX. Studierende sollten lernen, ihre Designs kontinuierlich zu evaluieren und zu verbessern. \n\n"
-
     "Die Integration von HCI und UX in das Informatikstudium bereitet Studierende darauf vor, nutzerfreundliche und effektive Technologien zu gestalten, die das menschliche Erlebnis verbessern und erweitern. Diese Fähigkeiten sind entscheidend für die Schaffung erfolgreicher Softwareprodukte und Technologielösungen."
 )

@@ -24,11 +24,5 @@ CONTENT = (
     "# Kritische Bewertung neuer Technologien \n"
     "Nicht jede neue Technologie oder jedes Framework ist es wert, gelernt zu werden. Eine kritische Bewertung ihrer Relevanz und ihres Potenzials für die eigene Karriere und Interessen ist wichtig. \n\n"
 
-    "# Umgang mit Unsicherheit und Frustration \n"
-    "Das Erlernen, mit Unsicherheit und Frustration umzugehen, wenn man mit neuen und herausfordernden Technologien konfrontiert wird, ist eine wichtige Fähigkeit. Resilienz und Ausdauer sind Schlüsseleigenschaften in diesem Prozess. \n\n"
-
-    "# Integration von Theorie und Praxis \n"
-    "Die Verbindung theoretischen Wissens aus dem Studium mit praktischen Anwendungen neuer Technologien ist für ein tiefgreifendes Verständnis und effektive Lernprozesse wichtig. \n\n"
-
     "Der Umgang mit schnellen Veränderungen in Programmiersprachen und Frameworks erfordert eine ausgewogene Kombination aus theoretischem Lernen, praktischer Anwendung, kontinuierlicher Weiterbildung und der Fähigkeit, sich flexibel an neue Situationen anzupassen."
 )

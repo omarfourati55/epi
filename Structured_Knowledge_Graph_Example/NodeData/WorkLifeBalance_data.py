@@ -30,9 +30,6 @@ CONTENT = (
     "# Prioritäten setzen \n"
     "Das Setzen von Prioritäten ist entscheidend, um nicht überwältigt zu werden. Dies beinhaltet die Fokussierung auf wichtige Aufgaben und das Lernen, Nein zu sagen, wenn nötig. \n\n"
 
-    "# Hobbies und Interessen \n"
-    "Die Pflege von Hobbies und persönlichen Interessen außerhalb des Studiums ist wichtig für eine ausgewogene Lebensführung. Sie bieten einen Ausgleich zum akademischen Druck und tragen zur persönlichen Entwicklung bei. \n\n"
-
     "Die Work-Life-Balance im Informatikstudium erfordert eine bewusste Gestaltung des Alltags, um sowohl akademischen Erfolg als auch persönliches Wohlbefinden zu erreichen. "
     "Die Balance zu finden, ist ein kontinuierlicher Prozess, der Anpassungsfähigkeit, Selbstkenntnis und die Bereitschaft zur Veränderung erfordert."
 )

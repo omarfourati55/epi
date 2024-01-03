@@ -1,25 +1,25 @@
 TITEL = "Herausforderungen und Entscheidungen im Kontext des (informatik-) Studiums"
-CONTENT = """
-Studienrichtungen in der Informatik:
-Bachelor- und Masterstudiengänge in der Informatik
-Schwerpunkte und Spezialisierungen (z.B. künstliche Intelligenz, Softwareentwicklung, Datenwissenschaft)
-Herausforderungen im Studium:
-Schwierigkeitsgrad bestimmter Kurse
-Zeitmanagement und Arbeitsbelastung
-Praktische Projekte und ihre Komplexität
-Entscheidungen bei der Kursauswahl:
-Wahl von Pflicht- und Wahlfächern
-Einfluss auf zukünftige Karriereentscheidungen
-Berücksichtigung persönlicher Interessen und Stärken
-Praktika und Berufserfahrung:
-Bedeutung von Praktika im Informatikstudium
-Entscheidungen bei der Auswahl von Praktikumsplätzen
-Auswirkungen auf den beruflichen Werdegang
-Technologische Entwicklungen und Trends:
-Aktuelle Entwicklungen in der Informatikbranche
-Auswirkungen auf den Lehrplan und die Studieninhalte
-Entscheidungen bezüglich der Anpassung an neue Technologien
-Zusätzliche Herausforderungen für Studierende:
-Finanzielle Aspekte (z.B. Studiengebühren, Lebenshaltungskosten)
-Soziale und emotionale Herausforderungen
-Vereinbarkeit von Studium und persönlichem Leben"""
+CONTENT = (
+    "# Studienrichtungen in der Informatik:\n"
+    "1.Bachelor- und Masterstudiengänge in der Informatik\n"
+    "2.Schwerpunkte und Spezialisierungen (z.B. künstliche Intelligenz, Softwareentwicklung, Datenwissenschaft)\n"
+    "# Herausforderungen im Studium:\n"
+    "1.Schwierigkeitsgrad bestimmter Kurse\n"
+    "2.Zeitmanagement und Arbeitsbelastung\n"
+    "3.Praktische Projekte und ihre Komplexität\n"
+    "# Entscheidungen bei der Kursauswahl:\n"
+    "1.Wahl von Pflicht- und Wahlfächern\n"
+    "2.Einfluss auf zukünftige Karriereentscheidungen\n"
+    "3.Berücksichtigung persönlicher Interessen und Stärken\n"
+    "# Praktika und Berufserfahrung:\n"
+    "1.Bedeutung von Praktika im Informatikstudium\n"
+    "2.Entscheidungen bei der Auswahl von Praktikumsplätzen\n"
+    "3.Auswirkungen auf den beruflichen Werdegang\n"
+    "# Technologische Entwicklungen und Trends:\n"
+    "1.Aktuelle Entwicklungen in der Informatikbranche\n"
+    "2.Auswirkungen auf den Lehrplan und die Studieninhalte\n"
+    "3.Entscheidungen bezüglich der Anpassung an neue Technologien\n"
+    "# Zusätzliche Herausforderungen für Studierende:\n"
+    "1.Finanzielle Aspekte (z.B. Studiengebühren, Lebenshaltungskosten)\n"
+    "2.Soziale und emotionale Herausforderungen\n"
+    "3.Vereinbarkeit von Studium und persönlichem Leben\n")

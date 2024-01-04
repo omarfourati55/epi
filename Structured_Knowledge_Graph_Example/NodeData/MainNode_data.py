@@ -20,6 +20,5 @@ CONTENT = (
     "2.Auswirkungen auf den Lehrplan und die Studieninhalte\n"
     "3.Entscheidungen bezüglich der Anpassung an neue Technologien\n"
     "# Zusätzliche Herausforderungen für Studierende:\n"
-    "1.Finanzielle Aspekte (z.B. Studiengebühren, Lebenshaltungskosten)\n"
-    "2.Soziale und emotionale Herausforderungen\n"
-    "3.Vereinbarkeit von Studium und persönlichem Leben\n")
+    "1.Soziale und emotionale Herausforderungen\n"
+    "2.Vereinbarkeit von Studium und persönlichem Leben\n")

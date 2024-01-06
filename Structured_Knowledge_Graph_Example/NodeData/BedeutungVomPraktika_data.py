@@ -24,4 +24,6 @@ CONTENT = (
 
 "Praktika ermöglichen es Studierenden, ihre Präferenzen und Interessen in Bezug auf die zukünftige Karriere zu "
 "entdecken und zu klären. Dies kann bei der späteren Auswahl von Kursen, Spezialisierungen und Karrierewegen eine "
-"entscheidende Rolle spielen.")
+"entscheidende Rolle spielen.\n"
+"# Quelle\n"
+"https://www.hrk-nexus.de/fileadmin/redaktion/hrk-nexus/07-Downloads/07-02-Publikationen/Impuls_Praktika__2_.pdf")

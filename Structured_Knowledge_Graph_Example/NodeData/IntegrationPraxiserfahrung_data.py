@@ -29,5 +29,7 @@ CONTENT = (
     "Das Dokumentieren und Präsentieren der Praxiserfahrungen, beispielsweise in Form von Portfolios oder Blogbeiträgen, kann die Sichtbarkeit erhöhen und bei zukünftigen Bewerbungen von Vorteil sein. \n\n"
 
     "Insgesamt ist die gezielte Integration von Praxiserfahrung in das Informatikstudium eine wichtige Grundlage für die berufliche Entwicklung. "
-    "Sie bereitet Studierende nicht nur auf die berufliche Praxis vor, sondern fördert auch die Entwicklung von Schlüsselkompetenzen und ein tiefgreifendes Verständnis des Fachgebiets."
+    "Sie bereitet Studierende nicht nur auf die berufliche Praxis vor, sondern fördert auch die Entwicklung von Schlüsselkompetenzen und ein tiefgreifendes Verständnis des Fachgebiets.\n"
+    "# Quelle: \n"
+    "https://www.fachinformatiker.de/topic/154920-eigene-softwareprojektepraktische-erfahrung-für-duales-informatikstudium-erforderlich/"
 )

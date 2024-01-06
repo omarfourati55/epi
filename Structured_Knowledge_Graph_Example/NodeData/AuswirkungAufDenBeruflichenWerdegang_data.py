@@ -14,4 +14,6 @@ CONTENT = (
 
     "Positive Auswirkung: Ein Praktikum in einem angesehenen Unternehmen kann Ihre berufliche Reputation stärken und bei "
     "zukünftigen Arbeitgebern Eindruck hinterlassen. Negative Auswirkung: Ein Praktikum in einem Unternehmen mit "
-    "schlechtem Ruf könnte negative Auswirkungen auf Ihre berufliche Wahrnehmung haben.")
+    "schlechtem Ruf könnte negative Auswirkungen auf Ihre berufliche Wahrnehmung haben.\n"
+"# Quelle:\n"
+"https://www.praktikumsstellen.de/praktikum-ratgeber/berufsorientierung-die-vorteile-und-nachteile-eines-praktikums.html")

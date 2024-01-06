@@ -21,5 +21,7 @@ CONTENT = (
     "# Zeitmanagement und Koordination \n"
     "Effektives Zeitmanagement und die Koordination von Aufgaben sind in Teamprojekten essentiell. Dies erfordert das Setzen klarer Ziele, Prioritäten und das Einhalten von Fristen. \n\n"
 
-    "Teamarbeit in Softwareentwicklungsprojekten ist eine komplexe Herausforderung, die über technische Fähigkeiten hinausgeht. Sie erfordert Kommunikation, Zusammenarbeit, Anpassungsfähigkeit und ein tiefes Verständnis für Gruppendynamiken. Diese Fähigkeiten zu entwickeln, ist für Informatikstudierende essentiell, um in ihrer zukünftigen beruflichen Laufbahn erfolgreich zu sein."
+    "Teamarbeit in Softwareentwicklungsprojekten ist eine komplexe Herausforderung, die über technische Fähigkeiten hinausgeht. Sie erfordert Kommunikation, Zusammenarbeit, Anpassungsfähigkeit und ein tiefes Verständnis für Gruppendynamiken. Diese Fähigkeiten zu entwickeln, ist für Informatikstudierende essentiell, um in ihrer zukünftigen beruflichen Laufbahn erfolgreich zu sein.\n"
+    "# Quelle: \n"
+    "https://de.linkedin.com/pulse/die-bedeutung-von-teamarbeit-bei-der-gemeinsam-zum-erfolg-sahingöz"
 )

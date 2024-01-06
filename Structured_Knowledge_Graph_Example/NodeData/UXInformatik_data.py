@@ -21,5 +21,7 @@ CONTENT = (
     "# Rolle von Forschung und Datenanalyse \n"
     "UX-Design basiert stark auf Forschung und Datenanalyse. Studierende sollten lernen, wie man Benutzerforschung betreibt, Daten sammelt und analysiert, um fundierte Designentscheidungen zu treffen. \n\n"
 
-    "Insgesamt bietet das Studium von UX-Design im Rahmen der Informatik den Studierenden nicht nur technische Fähigkeiten, sondern auch ein tiefes Verständnis für die Bedürfnisse und Erfahrungen der Nutzer, was für die Entwicklung erfolgreicher Technologieprodukte unerlässlich ist."
+    "Insgesamt bietet das Studium von UX-Design im Rahmen der Informatik den Studierenden nicht nur technische Fähigkeiten, sondern auch ein tiefes Verständnis für die Bedürfnisse und Erfahrungen der Nutzer, was für die Entwicklung erfolgreicher Technologieprodukte unerlässlich ist.\n"
+    "# Quelle: \n"
+    "https://xd-i.com/wissen/ux-design/"
 )

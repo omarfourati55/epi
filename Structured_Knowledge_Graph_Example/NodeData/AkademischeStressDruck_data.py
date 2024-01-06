@@ -27,5 +27,7 @@ CONTENT = (
     "# Stressmanagement-Techniken \n"
     "Techniken wie Meditation, Achtsamkeit und Entspannungsübungen können helfen, Stress zu bewältigen. Die regelmäßige Praxis dieser Techniken kann die Fähigkeit verbessern, mit stressigen Situationen umzugehen. \n\n"
 
-    "Der Umgang mit akademischem Stress und Druck erfordert eine ganzheitliche Herangehensweise, die sowohl das persönliche Wohlbefinden als auch akademische Strategien umfasst. Durch die Entwicklung effektiver Bewältigungsstrategien können Studierende nicht nur ihr Studium erfolgreich meistern, sondern sich auch auf zukünftige berufliche Herausforderungen vorbereiten."
+    "Der Umgang mit akademischem Stress und Druck erfordert eine ganzheitliche Herangehensweise, die sowohl das persönliche Wohlbefinden als auch akademische Strategien umfasst. Durch die Entwicklung effektiver Bewältigungsstrategien können Studierende nicht nur ihr Studium erfolgreich meistern, sondern sich auch auf zukünftige berufliche Herausforderungen vorbereiten.\n"
+    "# Quelle: \n"
+    "https://repositorium.hs-ruhrwest.de/frontdoor/deliver/index/docId/637/file/Masterarbeit_Informatik_Nese_Akgun.pdf"
 )

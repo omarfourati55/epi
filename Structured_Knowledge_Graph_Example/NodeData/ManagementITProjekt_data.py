@@ -23,5 +23,7 @@ CONTENT = (
     "# Qualitätssicherung \n"
     "Qualitätssicherung ist entscheidend für den Erfolg eines Projekts. Dies beinhaltet die Entwicklung von Qualitätsstandards, regelmäßige Qualitätsprüfungen und die Implementierung von Maßnahmen zur Qualitätsverbesserung. \n\n"
 
-    "Das Management von IT-Projekten im Informatikstudium ist eine umfassende Disziplin, die technische Fähigkeiten mit Managementkompetenzen verbindet. Es bereitet Studierende darauf vor, effektive IT-Projektmanager zu werden, die fähig sind, komplexe Projekte erfolgreich zu leiten und zu steuern."
+    "Das Management von IT-Projekten im Informatikstudium ist eine umfassende Disziplin, die technische Fähigkeiten mit Managementkompetenzen verbindet. Es bereitet Studierende darauf vor, effektive IT-Projektmanager zu werden, die fähig sind, komplexe Projekte erfolgreich zu leiten und zu steuern.\n"
+    "# Quelle: \n"
+    "https://www.researchgate.net/profile/Rene-Riedl-2/publication/334365969_Management_von_Informatik-Projekten_Digitale_Transformation_erfolgreich_gestalten/links/5f4baa1c299bf13c50591893/Management-von-Informatik-Projekten-Digitale-Transformation-erfolgreich-gestalten.pdf"
 )

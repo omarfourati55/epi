@@ -18,5 +18,7 @@ CONTENT = (
     "# Bewältigung von Stress und Burnout \n"
     "Das Erlernen von Techniken zur Stressbewältigung und zur Vermeidung von Burnout ist wichtig, um langfristig gesund und produktiv zu bleiben. Dazu gehört auch das Finden einer ausgewogenen Work-Life-Balance. \n\n"
 
-    "Die Vorbereitung auf die digitale Arbeitswelt ist ein kontinuierlicher Prozess, der das gesamte Studium umfasst. Durch die Entwicklung einer Kombination aus technischen Fähigkeiten, Soft Skills und einer adaptiven Denkweise können Informatikstudierende erfolgreich in die berufliche Zukunft starten."
+    "Die Vorbereitung auf die digitale Arbeitswelt ist ein kontinuierlicher Prozess, der das gesamte Studium umfasst. Durch die Entwicklung einer Kombination aus technischen Fähigkeiten, Soft Skills und einer adaptiven Denkweise können Informatikstudierende erfolgreich in die berufliche Zukunft starten.\n"
+    "# Quelle: \n"
+    "https://blog.hwr-berlin.de/elerner/die-bedeutung-digitaler-kompetenzen-fuer-eine-erfolgreiche-berufsvorbereitung-von-studierenden/"
 )

@@ -24,5 +24,7 @@ CONTENT = (
     "# Kritische Bewertung neuer Technologien \n"
     "Nicht jede neue Technologie oder jedes Framework ist es wert, gelernt zu werden. Eine kritische Bewertung ihrer Relevanz und ihres Potenzials für die eigene Karriere und Interessen ist wichtig. \n\n"
 
-    "Der Umgang mit schnellen Veränderungen in Programmiersprachen und Frameworks erfordert eine ausgewogene Kombination aus theoretischem Lernen, praktischer Anwendung, kontinuierlicher Weiterbildung und der Fähigkeit, sich flexibel an neue Situationen anzupassen."
+    "Der Umgang mit schnellen Veränderungen in Programmiersprachen und Frameworks erfordert eine ausgewogene Kombination aus theoretischem Lernen, praktischer Anwendung, kontinuierlicher Weiterbildung und der Fähigkeit, sich flexibel an neue Situationen anzupassen.\n"
+    "# Quelle: \n"
+    "https://www.informatik-aktuell.de/entwicklung/programmiersprachen/sind-frameworks-in-der-softwareentwicklung-alternativlos.html"
 )

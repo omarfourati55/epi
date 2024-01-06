@@ -24,4 +24,6 @@ CONTENT = (
 
     "Soft Skills: Nutzen Sie Praktika, um Ihre Soft Skills wie Kommunikation, Teamarbeit und Problemlösung zu schärfen."
     "Projektmanagement: Erwerben Sie Erfahrungen im Projektmanagement, um nicht nur technische, sondern auch "
-    "organisatorische Fähigkeiten zu entwickeln.")
+    "organisatorische Fähigkeiten zu entwickeln.\n"
+"# Quelle:\n"
+    "https://www.ihf.bayern.de/uploads/media/ihf_studien_hochschulforschung-77.pdf")

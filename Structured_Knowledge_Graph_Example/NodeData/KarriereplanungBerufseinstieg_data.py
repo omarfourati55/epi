@@ -18,5 +18,7 @@ CONTENT = (
     "# Kenntnisse aktueller Technologien und Trends \n"
     "Das Informatikstudium vermittelt Grundlagen, doch die IT-Branche entwickelt sich ständig weiter. Eigeninitiative beim Erlernen neuer Technologien und Trends ist für den Berufseinstieg und die Karriereentwicklung entscheidend. \n\n"
 
-    "Eine umfassende Karriereplanung und gezielte Vorbereitung auf den Berufseinstieg ermöglichen es Informatikstudierenden, sich effektiv auf die Anforderungen und Chancen in der IT-Branche einzustellen und eine erfolgreiche Karriere zu starten."
+    "Eine umfassende Karriereplanung und gezielte Vorbereitung auf den Berufseinstieg ermöglichen es Informatikstudierenden, sich effektiv auf die Anforderungen und Chancen in der IT-Branche einzustellen und eine erfolgreiche Karriere zu starten.\n"
+    "# Quelle: \n"
+    "https://www.h-brs.de/de/Karriere-Guide2"
 )

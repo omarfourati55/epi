@@ -18,4 +18,6 @@ CONTENT = (
 "Datenverarbeitung vor Ort: Edge Computing ermöglicht die Verarbeitung von Daten direkt am Ort ihrer Erzeugung," 
 "was die Latenz reduziert und die Effizienz von Anwendungen in Echtzeit verbessert. IoT-Integration: Edge Computing "
 "wird vermehrt mit dem Internet der Dinge (IoT) verbunden, um eine schnellere und effizientere Datenverarbeitung in" 
-"verteilten Netzwerken zu ermöglichen.\n"  )
+"verteilten Netzwerken zu ermöglichen.\n" 
+"# Quelle:\n"
+"https://www.paltron.com/insights/11-it-trends-der-zukunft")

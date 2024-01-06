@@ -27,5 +27,7 @@ CONTENT = (
     "# Anpassung an neue Lernformate \n"
     "Die Anpassung an verschiedene Lernformate und -technologien, von MOOCs über Webinare bis hin zu interaktiven Lernplattformen, ist wichtig, um flexibel und effektiv lernen zu können. \n\n"
 
-    "Die Förderung von Weiterbildung und lebenslangem Lernen ist für Informatikstudierende unerlässlich, um sich den ständig ändernden Anforderungen der Technologiewelt anzupassen und in ihrer beruflichen Entwicklung erfolgreich zu sein."
+    "Die Förderung von Weiterbildung und lebenslangem Lernen ist für Informatikstudierende unerlässlich, um sich den ständig ändernden Anforderungen der Technologiewelt anzupassen und in ihrer beruflichen Entwicklung erfolgreich zu sein.\n"
+    "# Quelle: \n"
+    "http://digitalewelt.blaustern.bplaced.net/?p=890"
 )

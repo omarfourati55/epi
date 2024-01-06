@@ -21,4 +21,6 @@ CONTENT = (
     "Networking-Chancen: Einschätzung der Networking-Möglichkeiten im Unternehmen. Bietet das Praktikum Gelegenheiten,"
     "mit Fachleuten und anderen Praktikanten in Kontakt zu treten? Langfristige Perspektiven: Untersuchen Sie, "
     "ob es langfristige Perspektiven für eine Anstellung nach dem Praktikum gibt, falls dies Ihren langfristigen "
-    "Karrierezielen entspricht.\n")
+    "Karrierezielen entspricht.\n"
+    "# Quelle:\n"
+"https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiBobWZn8SDAxXJ_rsIHUzXBbcQFnoECCwQAQ&url=https%3A%2F%2Fwww.mk.niedersachsen.de%2Fdownload%2F110660%2FMusterkonzept_mit_Handreichungen_-_Berufs-_und_Studienorientierung_2017.pdf&usg=AOvVaw0x-cDK5R1PHybC3zb04_Zu&opi=89978449")
